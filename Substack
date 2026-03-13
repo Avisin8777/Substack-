@@ -1,0 +1,10 @@
+git clone https://github.com/yourusername/substack_scraper.git
+cd substack_scraper
+
+# # Optinally create a virtual environment
+# python -m venv venv
+# # Activate the virtual environment
+# .\venv\Scripts\activate  # Windows
+# source venv/bin/activate  # Linux
+
+pip install -r requirements.txt    
